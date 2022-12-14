@@ -1,0 +1,15 @@
+C:\GeekBrains\lesson7\task_52\bin\Debug\net7.0\task_52.exe
+C:\GeekBrains\lesson7\task_52\bin\Debug\net7.0\task_52.deps.json
+C:\GeekBrains\lesson7\task_52\bin\Debug\net7.0\task_52.runtimeconfig.json
+C:\GeekBrains\lesson7\task_52\bin\Debug\net7.0\task_52.dll
+C:\GeekBrains\lesson7\task_52\bin\Debug\net7.0\task_52.pdb
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.csproj.AssemblyReference.cache
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.AssemblyInfoInputs.cache
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.AssemblyInfo.cs
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.csproj.CoreCompileInputs.cache
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.dll
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\refint\task_52.dll
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.pdb
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\task_52.genruntimeconfig.cache
+C:\GeekBrains\lesson7\task_52\obj\Debug\net7.0\ref\task_52.dll
